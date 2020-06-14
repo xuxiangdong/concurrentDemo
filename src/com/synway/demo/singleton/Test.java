@@ -7,6 +7,9 @@ import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * 测试一下
+ */
 public class Test {
     private final static int VAL = 50;
     public static void main(String[] args) throws InterruptedException {
